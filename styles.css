@@ -32,9 +32,17 @@ body{
     
 }
 
+.container__caixa{
+    margin: 0 6em;
+}
+
 .container__titulo{
     font-size: 28px;
     font-weight: 800;
+}
+
+.container__imagem{
+    margin: 1em 0 2em 0;
 }
 
 .container__botao{
@@ -44,6 +52,7 @@ body{
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 
 }
 
